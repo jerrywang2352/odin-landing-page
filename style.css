@@ -99,7 +99,7 @@ body {
 
 .links {
     display: flex;
-    gap: 16px;
+    gap: 32px;
 }
 
 .link {
